@@ -1,0 +1,7 @@
+f0bafcecbefc4d062c8c6ec67cadee96 *DESCRIPTION
+52275ec3083370947bac6cb1c4528b14 *NAMESPACE
+dcb75119b0569c1d6167a9aae2e09ed1 *R/markowitz.R
+2a6844abeec90e0f031436539aa1b087 *README.md
+ac0ab164b77be60adb44c136350463dd *man/markowitzcalc.Rd
+9fc7632e41066fa201533e9abaa75d54 *tests/testthat.R
+097f63bad3291a458b414dfe578efe40 *tests/testthat/testeM.R
